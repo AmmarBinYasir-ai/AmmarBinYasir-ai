@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarbinyasir-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ammarbinyasir-ai" /> </p>
 
-- 🌱 I’m currently learning **Aws,Kyverno,Docker,Git and many more**
+- 🌱 I’m currently learning **Aws, Kyverno, Docker, Git, and many more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmmarBinYasir-ai](https://github.com/AmmarBinYasir-ai)
 
 - 📝 I regularly write articles on [https://medium.com/@ammarbinyasir](https://medium.com/@ammarbinyasir)
 
 - 📫 How to reach me **venom.diode@gmail.com**
+
+- 📄 [Check out my CV](https://github.com/AmmarBinYasir-ai/Personal-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
