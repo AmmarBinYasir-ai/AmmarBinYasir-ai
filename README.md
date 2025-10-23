@@ -74,13 +74,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarBinYasir-ai&show_icons=true&theme=tokyonight" alt="AmmarBinYasir's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarBinYasir-ai&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
 ### ✨ Fun Fact
 > I love building things that make technology **feel more human** — from smart assistants to data-driven dashboards.
