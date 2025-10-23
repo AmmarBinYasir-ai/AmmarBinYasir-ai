@@ -1,7 +1,7 @@
 ![logo](https://github.com/AmmarBinYasir-ai/AmmarBinYasir-ai/blob/main/github-header-image.png)
 
 <h2 align="center">👋 Hi, I'm Ammar Bin Yasir</h2>
-<h3 align="center">🚀 Full Stack & AI Engineer | Building Smart, Scalable, and Impactful Products</h3>
+<h3 align="center">🚀 Full Stack & AI Developer | Building Smart, Scalable, and Impactful Products</h3>
 <h4 align="center">📍 Toronto, Canada</h4>
 
 <p align="center">
